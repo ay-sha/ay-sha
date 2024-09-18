@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋,</h1>
+<h1 align="left">Hey 👋</h1>
 <p align="left"> I'm Aysha Akter Sumi, a Front-end Developer and UI/UX Designer dedicated to creating intuitive and visually engaging web experiences. </p>
 <img align="right" alt="coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="400">
 
