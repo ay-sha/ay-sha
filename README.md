@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ayshaamin680@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ceHwgnqwB6puTIxwpNzycLacfFQgTh9X/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1lwVXL7u6H_l521mLSvH0fhLBKM16_ZUL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
