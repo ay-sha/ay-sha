@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋</h1>
 <p align="left"> I'm Aysha Akter Sumi, a Front-end Developer and UI/UX Designer dedicated to creating intuitive and visually engaging web experiences. </p>
-<img align="right" alt="coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="400">
+<img align="right" alt="coding" src="https://drive.google.com/uc?id=1Tk-69DwOr4l8QGAbtx3z11tf-bpqf0AM" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay-sha&label=Profile%20views&color=0e75b6&style=flat" alt="ay-sha" /> </p>
 
