@@ -3,7 +3,7 @@ I’m Aysha Akter Sumi, dedicated to building intuitive, visually captivating di
 🌱 I’m currently learning TypeScript, React<br>
 👨‍💻 All of my projects are available at <a href="https://ay-sha.github.io/aysha.co/">aysha.co</a><br>
 📫 How to reach me ayshaaktersumi630@gmail.com<br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1rRM8lXiURatETT5EKjlFN_S8Vg-zMrCv/view?usp=drive_link">RESUME</a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1jEHkWNsAYh2N_-OyqGY-BUal33Okmd47/view?usp=sharing">RESUME</a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayshaamin1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aysha_amin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aysha__amin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aysha-akter-sumi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayshaaktersumi630@gmail.com) 
