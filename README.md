@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋</h1>
 I’m Aysha Akter Sumi, dedicated to building intuitive, visually captivating digital experiences through my expertise in software development and design.<br><br>
 🌱 Currently exploring the full stack ecosystem — from designing sleek front-ends with React to building robust back-ends with Node.js and MongoDB<br>
-👨‍💻 All of my projects are available at <a href="https://ayshaa.netlify.app/">ayshaa</a><br>
+👨‍💻 All of my projects are available at <a href="https://aysha.tech/">aysha</a><br>
 📫 How to reach me ayshaaktersumi630@gmail.com<br>
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1aPvhZL_AKy8cSv1zP7dhsL7uUc1ojX-B/view?usp=sharing">RESUME</a>
 
