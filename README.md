@@ -3,7 +3,7 @@ I’m Aysha Akter Sumi, dedicated to building intuitive, visually captivating di
 🌱 Currently exploring the full stack ecosystem — from designing sleek front-ends with React to building robust back-ends with Node.js and MongoDB<br>
 👨‍💻 All of my projects are available at <a href="https://aysha.tech/">aysha</a><br>
 📫 How to reach me ayshaaktersumi630@gmail.com<br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1aPvhZL_AKy8cSv1zP7dhsL7uUc1ojX-B/view?usp=sharing">RESUME</a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/11gevTMHzQptUlSn-w7F-uIFLe_mfNk3N/view?usp=drive_link">RESUME</a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayshaamin1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aysha_amin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aysha__amin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aysha-akter-sumi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayshaaktersumi630@gmail.com) 
